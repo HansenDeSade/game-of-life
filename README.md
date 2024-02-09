@@ -18,7 +18,7 @@ Regardless of the fact that this set of rules has certainly been implemented oft
 
 As this project is just a private gimmick, I have decided against release management.
 
-If you want to see the project in action yourself, check it out and simply start it yourself. It should be compatible with any JDK from version 11 and don't use any other dependencies.
+If you want to see the project in action yourself, check it out and simply start it. It should be compatible with any JDK from version 11 and doesn't use any other dependencies.
 
 Once the application is started, you can activate single cells by clicking on them. As soon as all cells are prepared, the game of life can be started with the "start" button, which automatically becomes a "pause" button to stop further state changes.
 
